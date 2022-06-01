@@ -1,6 +1,6 @@
 #!/bin/bash
 
-targetDir=~/myConfs/
+targetDir=~/Linux_Scripts_Config/
 
 
 currDir=$(pwd)
@@ -12,7 +12,7 @@ while getopts ":f:n:" aflag; do
 	  n) name=$OPTARG;;
   esac
 done
-echo "file path $file/${file}"
+echo "file path $currDir/${file}"
 rsync -a /$currDir/${file} $targetDir/${name}
 
 
