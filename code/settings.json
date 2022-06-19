@@ -1,0 +1,9 @@
+{
+    "keyboard.dispatch": "keyCode",
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.colorTheme": "Monokai Dimmed",
+    "editor.inlayHints.enabled": false,
+    "workbench.startupEditor": "none",
+    "redhat.telemetry.enabled": false,
+    "editor.fontFamily": "mononoki Nerd Font"
+}
