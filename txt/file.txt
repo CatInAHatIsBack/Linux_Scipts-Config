@@ -1,22 +1,18 @@
 Directory scripts:
-/home/catinahat/.startkalitest.zh
-/home/catinahat/StrartWMonitor.sh
-/home/catinahat/scripts/configSync.sh
-/home/catinahat/scripts/makeSym.sh
-/home/catinahat/scripts/getConf.sh
-/home/catinahat/scripts/delCache.sh
+/home/cat/.startkalitest.zh
+/home/cat/StrartWMonitor.sh
+/home/cat/scripts/configSync.sh
+/home/cat/scripts/makeSym.sh
+/home/cat/scripts/getConf.sh
+/home/cat/scripts/delCache.sh
 
 Directory config:
-/home/catinahat/.config/nvim/init.vim
-/home/catinahat/.config/alacritty/alacritty.yml
-/home/catinahat/.config/awesome/rc.lua
-/home/catinahat/.zshrc
-/home/catinahat/.bashrc
-
-Directory code:
-/home/catinahat/config/settings.json
-/home/catinahat/config/keybindings.json
+/home/cat/.config/nvim/init.vim
+/home/cat/.config/alacritty/alacritty.yml
+/home/cat/.config/awesome/rc.lua
+/home/cat/.zshrc
+/home/cat/.bashrc
 
 Directory txt:
-/home/catinahat/scripts/file.txt
+/home/cat/scripts/file.txt
 
