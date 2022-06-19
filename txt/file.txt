@@ -1,4 +1,5 @@
 Directory scripts:
+/home/catinahat/.startkalitest.zh
 /home/catinahat/StrartWMonitor.sh
 /home/catinahat/scripts/configSync.sh
 /home/catinahat/scripts/makeSym.sh
