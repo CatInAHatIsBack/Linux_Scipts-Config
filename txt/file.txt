@@ -1,0 +1,21 @@
+Directory scripts:
+/home/catinahat/StrartWMonitor.sh
+/home/catinahat/scripts/configSync.sh
+/home/catinahat/scripts/makeSym.sh
+/home/catinahat/scripts/getConf.sh
+/home/catinahat/scripts/delCache.sh
+
+Directory config:
+/home/catinahat/.config/nvim/init.vim
+/home/catinahat/.config/alacritty/alacritty.yml
+/home/catinahat/.config/awesome/rc.lua
+/home/catinahat/.zshrc
+/home/catinahat/.bashrc
+
+Directory code:
+/home/catinahat/config/settings.json
+/home/catinahat/config/keybindings.json
+
+Directory txt:
+/home/catinahat/scripts/file.txt
+
