@@ -31,7 +31,7 @@ do_check(){
 }
 make_dir(){
 	echo "$prefix $1:" >> $mySave
-	"" >> $mySave
+	echo "" >> $mySave
 }
 
 printer(){
