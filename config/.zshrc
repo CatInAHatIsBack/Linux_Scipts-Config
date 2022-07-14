@@ -461,7 +461,7 @@ alias personal='cp -Rf /personal/* ~'
 #colorscript random
 
 #mystuff
-alias nv='neovide'
+alias nv='nvim'
 alias Sym='~/scripts/makeSym.sh'
 alias Del='~/scripts/delCache.sh'
 alias Con='~/scripts/configSync.sh'
