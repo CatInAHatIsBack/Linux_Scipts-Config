@@ -116,4 +116,3 @@ export PATH=~/go/bin:$PATH
 alias nv='nvim'
 export EDITOR='nvim'
 alias Con='~/scripts/M1_Conf.sh'
-alias sed='gsed'
